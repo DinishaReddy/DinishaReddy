@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile!  
 I’m a **Computer Science Graduate Student @ SDSU** with a background in **Cybersecurity** from my B.Tech.  
+
 My interests are in **software development** and exploring how **AI and Machine Learning** can be used to improve the **security and reliability of software systems.**  
 
 
