@@ -1,11 +1,13 @@
 # Hi there 👋 I'm Dinisha Reddy  
 
 Welcome to my GitHub profile!  
-I’m a **Computer Science Graduate Student @ SDSU** with an interest in **software development** and exploring ways to **improve software security using AI and Machine Learning.**  
+I’m a **Computer Science Graduate Student @ SDSU** with a background in **Cybersecurity** from my B.Tech.  
+My interests are in **software development** and exploring how **AI and Machine Learning** can be used to improve the **security and reliability of software systems.**  
+
 
 ## 🌱 What I'm Currently Working On  
 - Developing a **DT Ruth Traffic Simulator** on high-performance computing systems to analyze traffic patterns and optimize flow  
-- Learning and applying **Machine Learning** for cybersecurity and healthcare problems  
+- Learning and applying **Machine Learning** for Cybersecurity and healthcare problems  
 - Practicing **Cloud DevOps workflows** with Docker, Kubernetes, and CI/CD  
 - Building small **web applications** to strengthen my full-stack skills  
 
