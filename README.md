@@ -1,24 +1,19 @@
-# Hi there! 👋 I'm Dinisha Reddy  
+# Hi there 👋 I'm Dinisha Reddy  
 
 Welcome to my GitHub profile!  
-I’m a **Computer Science Graduate Student @ SDSU** with a passion for **building scalable software, exploring data-driven solutions, and diving deep into cloud & cybersecurity.**  
-I love turning complex problems into impactful, user-friendly applications.  
-
----
+I’m a **Computer Science Graduate Student @ SDSU** with an interest in **software development** and exploring ways to **improve software security using AI and Machine Learning.**  
 
 ## 🌱 What I'm Currently Working On  
-- Exploring **Data Science + Machine Learning** for real-world applications in cybersecurity & healthcare  
-- Sharpening my skills in **Cloud DevOps** (AWS, Docker, Kubernetes, CI/CD)  
-- Designing **scalable web applications** using Spring Boot, React, and Microservices  
-
----
+- Developing a **DT Ruth Traffic Simulator** on high-performance computing systems to analyze traffic patterns and optimize flow  
+- Learning and applying **Machine Learning** for cybersecurity and healthcare problems  
+- Practicing **Cloud DevOps workflows** with Docker, Kubernetes, and CI/CD  
+- Building small **web applications** to strengthen my full-stack skills  
 
 ## 🛠️ My Skills  
-
-- **Programming Languages:** Java, Python, JavaScript, Go, SQL, TypeScript, C, C++  
-- **Frameworks & Libraries:** Node.js, Express.js, React, Angular, Vue.js, Spring Boot, MongoDB, PyTorch, Scikit-learn  
-- **Cloud & DevOps Tools:** AWS, Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD  
-- **Other Skills:** Problem Solving, Collaboration, Agile Development  
+- **Languages:** Java, Python, JavaScript, Go, SQL, TypeScript, C, C++  
+- **Frameworks & Tools:** Node.js, React, Angular, Spring Boot, MongoDB, PyTorch, scikit-learn  
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, GitHub Actions  
+- **Other Skills:** Problem Solving, Team Collaboration  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/>
@@ -39,20 +34,7 @@ I love turning complex problems into impactful, user-friendly applications.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>  
 
----
-
-## ✨ A Little About Me  
-- 🧠 Big believer in **secure + intelligent systems**  
-- 🌍 Love blending **creativity with technology**  
-- 🎶 Outside of code: exploring music and cultures
-
----
-
-## 🤝 Let's Connect  
+## 🤝 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/dinisha-reddy-941a82249)  
 - [GitHub](https://github.com/DinishaReddy)  
 - 📫 Email: **sdr.dinishareddy1704@gmail.com**  
-
----
-
-
