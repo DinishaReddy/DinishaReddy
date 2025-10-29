@@ -1,20 +1,42 @@
-# Hi there 👋 I'm Dinisha Reddy  
+# Hi there 👋 I'm Dinisha Reddy
 
-Welcome to my GitHub profile!  
-I’m a **Computer Science Graduate Student @ SDSU** with a background in **Cybersecurity** from my B.Tech.  
+**MS CS @ SDSU** • **Cybersecurity background** • Building end-to-end software with **AI + Cloud + DevOps**
 
-My interests are in **software development** and exploring how **AI and Machine Learning** can be used to improve the **security and reliability of software systems.**  
+I’m interested in how **AI/ML** can improve the **security, reliability, and usability** of software systems.
 
+---
 
-## 🌱 What I'm Currently Working On  
-- Developing a **DT Ruth Traffic Simulator** on high-performance computing systems to analyze traffic patterns and optimize flow  
-- Learning and applying **Machine Learning** for Cybersecurity and healthcare problems  
-- Practicing **Cloud DevOps workflows** with Docker, Kubernetes, and CI/CD  
-- Building small **web applications** to strengthen my full-stack skills  
+## 🚀 Featured Project — AI Interview Coach
+**Repo:** [AI-Interviewer](https://github.com/DinishaReddy/AI-Interviewer)
 
-## 🛠️ My Skills  
+- Designed an **AI-powered interview coaching platform** using **FastAPI, React, Tailwind, and AWS (Bedrock, Polly, S3, DynamoDB)** to simulate realistic recruiter interactions.  
+- Automatically **generates personalized questions** from uploaded resumes & JDs, **asks by voice**, and **transcribes** the candidate’s spoken answers.  
+- Integrated **speech analysis + intelligent scoring** to give real-time feedback on **clarity, filler words, pacing, strengths & improvement areas**.
 
-### Languages  
+> 🏆 **Winner – AWS X Calpully Hackathon (2025)** for this project.
+
+---
+
+## 🌱 What I'm Currently Working On
+- **DT RUTH Traffic Simulator** on HPC systems (Python + Rust, OpenMPI/ZeroMQ) for urban mobility modeling  
+- Applying **ML** in cybersecurity & healthcare problems  
+- Practicing **Cloud DevOps** (Docker, Kubernetes, CI/CD)  
+- Building small **full-stack web apps** to deepen frontend ↔ backend skills
+
+---
+
+## 🧠 Selected Projects
+- **Cyber Threat Detection (Team Lead):** RF/XGBoost/SVM on **CICIDS2017** & **UNSW-NB15**; up to **99.9%** accuracy  
+- **Robust Brain Tumor Detection:** CNN ensemble (VGG16 + ResNet101) on **7k+ MRI** images; **99.09%** accuracy  
+- **DT RUTH Traffic Simulator (Research):** Python orchestration + Rust routing, OSM integration, HPC scaling
+
+> More on my GitHub → check pinned repositories.
+
+---
+
+## 🛠️ My Skills
+
+### Languages
 <p align="center">
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
@@ -24,9 +46,9 @@ My interests are in **software development** and exploring how **AI and Machine 
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-</p>  
+</p>
 
-### Frameworks & Libraries  
+### Frameworks & Libraries
 <p align="center">
   <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
@@ -37,18 +59,18 @@ My interests are in **software development** and exploring how **AI and Machine 
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/></a>
-</p>  
+</p>
 
-### Cloud & DevOps  
+### Cloud & DevOps
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40" height="40"/></a>
-</p>  
+</p>
 
-### Tools  
+### Tools
 <p align="center">
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
@@ -57,9 +79,19 @@ My interests are in **software development** and exploring how **AI and Machine 
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
   <a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/></a>
   <a href="https://docs.pytest.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/889758?s=200&v=4" width="40" height="40"/></a>
-</p>  
+</p>
 
-## 🤝 Connect with Me  
+---
+
+## 🏆 Achievements
+- **Winner – AWS X Calpully Hackathon (2025)** — AI Interview Coach (Generative AI + AWS)
+- **Chairman of External Relations, I&T Labs**
+- Led **GitHub Crash Course & AR/VR** events; organized **EduYouth Meetup (50,000+ attendees)**
+- Selected from **1,000+** for **PwC Cybersecurity Launchpad**
+
+---
+
+## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/dinisha-reddy-941a82249)  
 - [GitHub](https://github.com/DinishaReddy)  
-- 📫 Email: **sdr.dinishareddy1704@gmail.com**  
+- 📫 Email: **sdr.dinishareddy1704@gmail.com**
