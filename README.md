@@ -4,7 +4,7 @@
 
 I’m interested in how **AI/ML** can improve the **security, reliability, and usability** of software systems.
 
----
+
 
 ## 🚀 Featured Project — AI Interview Coach
 **Repo:** [AI-Interviewer](https://github.com/DinishaReddy/AI-Interviewer)
@@ -15,7 +15,7 @@ I’m interested in how **AI/ML** can improve the **security, reliability, and u
 
 > 🏆 **Winner – AWS X Calpully Hackathon (2025)** for this project.
 
----
+
 
 ## 🌱 What I'm Currently Working On
 - **DT RUTH Traffic Simulator** on HPC systems (Python + Rust, OpenMPI/ZeroMQ) for urban mobility modeling  
@@ -23,7 +23,7 @@ I’m interested in how **AI/ML** can improve the **security, reliability, and u
 - Practicing **Cloud DevOps** (Docker, Kubernetes, CI/CD)  
 - Building small **full-stack web apps** to deepen frontend ↔ backend skills
 
----
+
 
 ## 🧠 Selected Projects
 - **Cyber Threat Detection (Team Lead):** RF/XGBoost/SVM on **CICIDS2017** & **UNSW-NB15**; up to **99.9%** accuracy  
@@ -32,7 +32,6 @@ I’m interested in how **AI/ML** can improve the **security, reliability, and u
 
 > More on my GitHub → check pinned repositories.
 
----
 
 ## 🛠️ My Skills
 
@@ -81,15 +80,12 @@ I’m interested in how **AI/ML** can improve the **security, reliability, and u
   <a href="https://docs.pytest.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/889758?s=200&v=4" width="40" height="40"/></a>
 </p>
 
----
 
 ## 🏆 Achievements
 - **Winner – AWS X Calpully Hackathon (2025)** — AI Interview Coach (Generative AI + AWS)
 - **Chairman of External Relations, I&T Labs**
 - Led **GitHub Crash Course & AR/VR** events; organized **EduYouth Meetup (50,000+ attendees)**
 - Selected from **1,000+** for **PwC Cybersecurity Launchpad**
-
----
 
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/dinisha-reddy-941a82249)  
